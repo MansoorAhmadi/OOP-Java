@@ -33,10 +33,11 @@ public class GetFileInfo {
 }
 
 OUTPUT:
+//exists() will return the existence of the file in the project directory
 //getName() will return the file name
 //getAbsolutePath() will return the file path/location/directory
 //canWrite() will return a boolean
-//canRead() will return a boolean as well.
-//length() will return the length of the file.
+//canRead() will return a boolean as well
+//length() will return the length of the file
 
 //If the file is not imported into the project, for sure it will return the else statement.
