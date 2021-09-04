@@ -33,3 +33,11 @@ public class SetDemo {
         String[] setToArray = mySet.toArray(new String[0]);
     }
 }
+
+
+//OUTPUT
+//3
+//[This, is, a HashSet]
+//This
+//is
+//a HashSet
