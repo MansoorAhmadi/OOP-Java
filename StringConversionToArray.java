@@ -23,8 +23,11 @@ public class DataConversion {
 
         System.out.println(Arrays.toString(myString));
 
-        String s = myString[1];
+        String indexOne = myString[1];
         System.out.printf("IndexOne: " + s);
+        
+        double d = Double.parseDouble(indexOne);
+        System.out.println("Parsed to double: " + d);
     }
 }
 
