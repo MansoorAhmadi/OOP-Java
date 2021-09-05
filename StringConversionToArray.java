@@ -38,3 +38,4 @@ public class DataConversion {
 //lastIndex: c,zeaj'
 //[a, 3, c,zea]
 //IndexOne: 3
+//Parsed to double: 3.0
